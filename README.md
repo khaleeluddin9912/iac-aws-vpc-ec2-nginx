@@ -58,8 +58,7 @@ Copy code
 ## ▶️ How to Use
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/terraform-aws-webserver-stack.git
-   cd terraform-aws-webserver-stack
+   git clone https://github.com/khaleeluddin9912/iac-aws-vpc-ec2-nginx.git
 Initialize Terraform
 
 bash
