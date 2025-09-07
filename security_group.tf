@@ -1,4 +1,3 @@
-
 resource "aws_security_group" "nginx-sg" {
   vpc_id = aws_vpc.my_vpc.id
 
