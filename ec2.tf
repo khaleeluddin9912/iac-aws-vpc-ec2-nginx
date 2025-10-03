@@ -1,3 +1,4 @@
+
 # EC2 instance For Nginx setup
 resource "aws_instance" "nginxserver" {
   ami                         = "ami-0c0e147c706360bd7"
